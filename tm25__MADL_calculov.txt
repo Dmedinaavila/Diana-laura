@@ -104,3 +104,5 @@ int main()
 	}
 return 0;
 }
+
+//el main va en otro archivo
